@@ -5,8 +5,8 @@
 ```
 go get -u github.com/wg2019/gitee
 ```
-### 2. 获取token`
-![get-token](https://github.com/wg2019/gitee/get-token.png)
+### 2. 获取token
+![get-token](https://github.com/wg2019/gitee/blob/main/get-token.png)
 ### 3. 获取cookie
 ![get-cookie](./get-cookie.png)
 ### 4. 填写配置
